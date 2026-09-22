@@ -97,6 +97,7 @@ The project used publicly available baseball information and statistics from sou
 ## Project Presentation
 
 The complete presentation included in this folder contains the analysis, visualizations, forecasting assumptions, and conclusions developed for this project.
+### [📄 View Full Ohtani Forecasting Presentation](Future%20Success%20of%20Shohei%20Ohtani.pdf)
 
 ## Key Takeaway
 
