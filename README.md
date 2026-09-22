@@ -31,7 +31,7 @@ A sports analytics project examining the future performance of Shohei Ohtani usi
 
 ---
 
-### 🏅 Olympic Athlete Data Analysis
+### [🏅 Olympic Athlete Data Analysis](olympics-analysis/)
 
 Python-based analysis of Olympic athlete data examining height, age, variance, medal outcomes, and other performance patterns.
 
