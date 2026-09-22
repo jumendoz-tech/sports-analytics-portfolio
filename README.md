@@ -4,7 +4,7 @@
 
 I am an Applied Statistics & Data Science graduate student at UCLA with a background in mathematics, statistics, economics, and quantitative education. After more than 20 years as a mathematics and statistics educator and instructional leader, I am transitioning into applied data science and sports analytics.
 
-My interests include sports forecasting, player performance analysis, statistical modeling, machine learning, database analysis, and using data to support strategic decision-making.
+My interests include sports forecasting, player performance analysis, statistical modeling, database analysis, and using data to support strategic decision-making. I am particularly interested in applying quantitative methods to player evaluation, performance projection, and baseball operations.
 
 ## Technical Skills
 
