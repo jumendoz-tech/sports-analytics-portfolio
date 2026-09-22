@@ -17,7 +17,7 @@ My interests include sports forecasting, player performance analysis, statistica
 
 ## Featured Projects
 
-### ⚾ Shohei Ohtani Performance Forecasting
+### [⚾ Shohei Ohtani Performance Forecasting](ohtani-forecast/)
 
 A sports analytics project examining the future performance of Shohei Ohtani using historical baseball performance measures and statistical reasoning.
 
