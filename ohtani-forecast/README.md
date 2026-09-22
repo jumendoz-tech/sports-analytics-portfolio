@@ -1,51 +1,107 @@
 # ⚾ Shohei Ohtani Performance Forecasting
 
-## Project Overview
+## Forecasting MLB Performance: 2027–2030
 
-This project examines the future performance of Shohei Ohtani using historical baseball performance measures and statistical reasoning.
+### Project Overview
 
-The goal was to take a real-world sports question — how might Ohtani perform in the future? — and examine how historical performance data can be used to develop a reasonable forecast while recognizing the uncertainty and limitations involved in predicting future athletic performance.
+This sports analytics project examines Shohei Ohtani's potential MLB performance from 2027 through 2030 using historical performance measures, recent trends, and an explainable forecasting approach.
+
+The objective was not to produce a "perfect" prediction. Instead, I wanted to develop a data-supported forecast with clear assumptions while recognizing the uncertainty involved in projecting future athletic performance.
 
 ## Research Question
 
-**What does Ohtani's historical performance suggest about his potential future success?**
+**Based on recent performance trends, what might Shohei Ohtani's offensive production look like from 2027–2030?**
 
-## Analytical Focus
+## Metrics & Analytical Focus
 
-This project focused on:
+The analysis considered:
 
-- Historical baseball performance
+- Home run production
 - OPS and offensive performance
-- Performance trends over time
-- Forecasting
-- Statistical reasoning
-- Uncertainty in sports predictions
-- Communicating quantitative findings to a non-technical audience
+- Recent performance trends
+- Quality-of-contact indicators
+- Age-related performance changes
+- Injury and workload considerations
+- Ohtani's unique two-way role
+- Forecast uncertainty
 
-## Approach
+## Forecasting Approach
 
-I examined historical performance measures and trends to evaluate Ohtani's past production and consider what those patterns could suggest about future performance.
+I developed an explainable forecasting framework using Ohtani's historical and recent performance.
 
-Rather than treating a forecast as a guaranteed outcome, the analysis emphasized the importance of interpreting historical evidence carefully and recognizing factors that create uncertainty when projecting an athlete's future performance.
+The approach included:
+
+- Examining recent offensive production
+- Giving greater consideration to more recent seasons
+- Evaluating performance trends over time
+- Applying an age-related adjustment to future seasons
+- Considering health and workload uncertainty
+- Developing multiple scenarios rather than relying on a single outcome
+
+This approach allowed the forecast to remain interpretable while acknowledging that player performance is affected by factors that historical statistics alone cannot fully predict.
+
+## Scenario Analysis
+
+I considered three potential performance paths:
+
+**Best Case**  
+Ohtani remains healthy and continues producing near his recent elite offensive level.
+
+**Base Case**  
+Performance remains strong but gradually declines as age and workload become larger factors.
+
+**Conservative Case**  
+Injuries, workload, or age-related decline have a greater effect on future production.
+
+## Base-Case Home Run Forecast
+
+| Season | Projected HR |
+|-------:|-------------:|
+| 2027 | 42 |
+| 2028 | 38 |
+| 2029 | 34 |
+| 2030 | 30 |
+
+The base-case model projects approximately **140–150 home runs from 2027–2030**.
+
+## Interpretation
+
+The analysis suggests that Ohtani could remain an elite offensive player even with gradual age-related decline.
+
+At the same time, the project demonstrates an important principle of sports forecasting: projections should not be interpreted as guaranteed outcomes.
+
+Health, workload, changes in playing role, aging, and other factors can substantially affect future performance.
 
 ## Skills Demonstrated
 
 - Sports analytics
 - Forecasting
-- Statistical analysis
+- Statistical reasoning
+- Trend analysis
+- Scenario analysis
 - Data interpretation
 - Data visualization
-- Quantitative communication
-- Translating statistical results for non-technical audiences
+- Communicating uncertainty
+- Translating quantitative findings for non-technical audiences
+
+## Data Sources
+
+The project used publicly available baseball information and statistics from sources including:
+
+- Baseball-Reference
+- FanGraphs
+- Baseball Savant
+- ESPN
+- Reuters
+
+## Project Presentation
+
+The complete presentation included in this folder contains the analysis, visualizations, forecasting assumptions, and conclusions developed for this project.
 
 ## Key Takeaway
 
-Historical performance data can provide useful evidence for evaluating future performance, but sports forecasts should be interpreted within the context of uncertainty, changing conditions, and the limitations of historical data.
-
-## Project Materials
-
-Additional project materials and presentation files will be included in this repository.
+Sports forecasting is most useful when the assumptions behind a projection are transparent. Rather than presenting one number as certain, this project uses historical evidence, recent trends, aging considerations, and scenario analysis to develop an interpretable forecast while clearly acknowledging uncertainty.
 
 ---
 
-[← Back to Sports Analytics Portfolio](../README.md)
+[← Back to Sports Analytics & Data Science Portfolio](../README.md)
