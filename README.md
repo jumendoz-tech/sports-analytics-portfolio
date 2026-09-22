@@ -45,7 +45,7 @@ Python-based analysis of Olympic athlete data examining height, age, variance, m
 
 ---
 
-### 📊 LA Metro Gentrification Risk Modeling
+### 📊 [LA Metro Gentrification Risk Modeling](metro-gentrification-analysis/)
 
 Applied data science project examining potential gentrification risk near the LA Metro D Line Extension.
 
