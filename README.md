@@ -8,10 +8,10 @@ My interests include sports forecasting, player performance analysis, statistica
 
 ## Technical Skills
 
-**Programming:** Python, R, SQL  
+**Programming & Analysis:** Python, R, SQL  
 **Data & Databases:** pandas, NumPy, SQLite, MySQL  
 **Statistical Methods:** Regression, Statistical Inference, Predictive Modeling, Forecasting, Machine Learning  
-**Tools:** Git, GitLab, AWS S3, Excel, Data Visualization
+**Tools & Platforms:** Git, GitLab, AWS S3, Excel, Matplotlib
 
 ---
 
