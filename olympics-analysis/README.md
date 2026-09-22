@@ -1,4 +1,4 @@
-# 🏅 Olympic Athlete Data Analysis
+### [🏅 Olympic Athlete Data Analysis](olympics-analysis/)
 
 ## Python Analysis of Olympic Athlete Trends
 
@@ -96,7 +96,7 @@ This project demonstrates my ability to move from a large athlete-level dataset 
 
 The complete Python script for this analysis is included in this project folder.
 
-### 💻 View Python Source Code
+### [💻 View Python Source Code](olympics.py)
 
 *The source-code link will be activated after `olympics.py` is uploaded to this folder.*
 
